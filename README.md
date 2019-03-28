@@ -1,2 +1,2 @@
 # Augmented
-Creating Augmented between Vuforia and Unreal Engine
+Creating Augmented using Vuforia and Unreal Engine
